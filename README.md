@@ -1,5 +1,5 @@
 ## Sana Commerce Software Development Courses `24!
-sana logo (https://upload.wikimedia.org/wikipedia/commons/0/08/Sana_Commerce_Logo.png)
+[sana logo] (https://upload.wikimedia.org/wikipedia/commons/0/08/Sana_Commerce_Logo.png)
 ### Практична робота №1
 #### Основні завдання
 У **практичній роботі №1** було:
@@ -26,9 +26,9 @@ sana logo (https://upload.wikimedia.org/wikipedia/commons/0/08/Sana_Commerce_Log
 У файлі ***README.md*** повинна бути така інформація:
 * заголовки
 * списки 
-- нумеровані
-- марковані
-- списки з прапорцями
+	- нумеровані
+	- марковані
+	- списки з прапорцями
 * гіперпосилання
 * картинки 
 
